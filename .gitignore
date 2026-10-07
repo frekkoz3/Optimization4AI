@@ -1,3 +1,25 @@
+# temporary
+notebooks/Ex2_ES.ipynb
+notebooks/Ex3_GP.ipynb
+notebooks/Ex4_LinearGP.ipynb
+notebooks/Ex5_DE.ipynb
+notebooks/Ex6_coevolution.ipynb
+notebooks/Ex7_NEAT.py
+notebooks/Ex8_XCS.ipynb
+notebooks/Ex9_PySR.ipynb
+notebooks/neat_config.txt
+notebooks/robot_maze.py
+notebooks/pygame_assets/car.png
+notebooks/pygame_assets/track.png
+
+notebooks/solutions/Ex1_GA.ipynb
+notebooks/solutions/Ex2_ES.ipynb
+notebooks/solutions/Ex3_GP.ipynb
+notebooks/solutions/Ex5_DE.ipynb
+notebooks/solutions/Ex7_NEAT.py
+notebooks/solutions/Ex8_XCS.ipynb
+notebooks/solutions/neat_config.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
