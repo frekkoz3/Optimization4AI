@@ -11,6 +11,9 @@ notebooks/robot_maze.py
 notebooks/pygame_assets/car.png
 notebooks/pygame_assets/track.png
 
+notebooks/solutions/Ex3_LGP.ipynb
+notebooks/solutions/lgp_evolution.gif
+
 notebooks/solutions/Ex3_GP.ipynb
 notebooks/solutions/Ex5_DE.ipynb
 notebooks/solutions/Ex7_NEAT.py
