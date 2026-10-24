@@ -1,6 +1,5 @@
 # temporary
-notebooks/Ex3_GP.ipynb
-notebooks/Ex4_LinearGP.ipynb
+notebooks/Ex4_GP.ipynb
 notebooks/Ex5_DE.ipynb
 notebooks/Ex6_coevolution.ipynb
 notebooks/Ex7_NEAT.py
@@ -11,10 +10,7 @@ notebooks/robot_maze.py
 notebooks/pygame_assets/car.png
 notebooks/pygame_assets/track.png
 
-notebooks/solutions/Ex3_LGP.ipynb
-notebooks/solutions/lgp_evolution.gif
-
-notebooks/solutions/Ex3_GP.ipynb
+notebooks/solutions/Ex4_GP.ipynb
 notebooks/solutions/Ex5_DE.ipynb
 notebooks/solutions/Ex7_NEAT.py
 notebooks/solutions/Ex8_XCS.ipynb
