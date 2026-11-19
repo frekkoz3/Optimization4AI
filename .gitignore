@@ -1,5 +1,4 @@
 # temporary
-notebooks/Ex5_DE.ipynb
 notebooks/Ex6_coevolution.ipynb
 notebooks/Ex7_NEAT.py
 notebooks/Ex8_XCS.ipynb
@@ -234,5 +233,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-notebooks/solutions/Ex4_bis_GP.ipynb
-notebooks/solutions/Ex4bis_GP.ipynb
